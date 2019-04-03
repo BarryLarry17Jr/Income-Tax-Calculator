@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 pay = int(input("Hourly wage?"))
 hours_worked = int(input("Hours worked per day?"))
 days_worked = int(input("Days worked per week?"))
@@ -51,5 +52,5 @@ if 1 <= int(yearly_income) <= 100000000:
 
 
 if 100000001 <= int(yearly_income):
-    print("Ur a greedy mother fucker. Piss off im not telling u shit.")
+    print("Your a greedy mother fucker. Piss off i'm not telling u shit.")
     print("___________________________________________________________________________")
