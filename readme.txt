@@ -13,10 +13,9 @@ I made this program from scratch in my first day of learning python. The idea wa
 ----------------------------------------------------------------------
 How to install for Mac
 
-1) Open terminal and type in "chmod +x income_tax_calculator.command"
-2) Open the income_tax_calculator.command file
-3) Wait for the program to open in terminal
-4) Input the needed values
+1) Open the income_tax_calculator.command file
+2) Wait for the program to open in terminal
+3) Input the needed values
 ----------------------------------------------------------------------
 How to install for Windows
 
